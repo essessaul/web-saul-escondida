@@ -1,0 +1,16 @@
+
+This is the pro-grade structured version of the Playa Escondida platform.
+
+Key structure:
+- Homepage with hero search (dates + guests)
+- VIP listings + standard listings
+- Dedicated listing pages with calendars
+- Vacation Rentals / Sales / Admin navigation only
+- Beach hero layout matching the requested visual direction
+
+To run:
+npm install
+npm run dev
+
+Open:
+http://localhost:5173
